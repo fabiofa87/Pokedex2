@@ -1,3 +1,3 @@
 Pokdedex project made with REACTJS
 
-unable-value.surge.sh
+http://unable-value.surge.sh
